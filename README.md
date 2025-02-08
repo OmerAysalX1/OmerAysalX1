@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Python and C++**  
 - 🤖 I’m interested in **Machine Learning and Image Processing**  
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">About me:</h3>
 <p align="left">I am a Electrical and Electronics Engineering student who discovered a passion for Data Science after starting university. Since then, I have been actively working on projects related to embedded systems, machine learning, and control systems. I enjoy developing software in different fields and continuously expanding my knowledge.
 
 >
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/%C3%B6mer-aysal-0a03a92b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ömer Aysal" height="30" width="40" /></a>
-<a href="https://instagram.com/omeraysal5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omeraysal5" height="30" width="40" /></a>
+
 </p>
 
 
