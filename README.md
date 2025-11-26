@@ -1,33 +1,45 @@
 <h1 align="center">Hi 👋, I'm Ömer Aysal!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OmerAysalX1&label=Profile%20views&color=0e75b6&style=flat" alt="OmerAysalX1" /> </p>
-
-- 🌱 I’m currently learning **Python and C++**  
-- 🤖 I’m interested in **Machine Learning and Image Processing**  
-
 <h3 align="left">About me:</h3>
-<p align="left">I am a Electrical and Electronics Engineering student who discovered a passion for Data Science after starting university. Since then, I have been actively working on projects related to embedded systems, machine learning, and control systems. I enjoy developing software in different fields and continuously expanding my knowledge.
-
->
+<p align="left">I'm a final-year student in Electrical and Electronics Engineering. I actively work on projects like machine learning, deep learning, computer vision, and autonomous driving systems, transforming my ideas into projects. I'm also expanding my knowledge and skills by exploring cybersecurity and large language models (LLMs). I enjoy designing algorithms to solve challenging problems, experimenting with innovative solutions, and keeping up with technological advancements.
 </p>
 
+<h3 align="left">Technical Skills:</h3>
+<table>
+  <tr>
+    <!-- Programming Languages -->
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" /></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" /></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" /></td>
+    <td><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="70" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" /></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" /></td>
+    <td><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" /></td>
+  </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/%C3%B6mer-aysal-0a03a92b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ömer Aysal" height="30" width="40" /></a>
-
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>  
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
-</p>
-
-<br>
 
